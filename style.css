@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    padding-top:100px;
+}
+.texts{
+    text-decoration:none;
+    text-decoration-line: none;
+    color: brown;
+}
+
+.images{
+    padding-right:20px;
+}
+@media (min-width:900px){
+    
+}
